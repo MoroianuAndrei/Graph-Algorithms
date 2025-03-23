@@ -1,0 +1,9 @@
+Numar de noduri: 6
+
+Matricea de adiacenta pentru graf orientat:
+0 1 1 0 0 0 
+0 0 0 0 0 0 
+0 0 0 1 1 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+1 0 1 0 0 0 

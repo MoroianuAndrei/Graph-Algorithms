@@ -1,0 +1,7 @@
+Numar de noduri: 4
+
+Matricea de adiacenta pentru graf neorientat:
+0 1 1 1 
+1 0 0 1 
+1 0 0 1 
+1 1 1 0 
